@@ -1,0 +1,34 @@
+Unity Sources
+ 
+---------------------------------------------
+Audio/ Sound Effects - https://pixabay.com/
+---------------------------------------------
+Assets - https://assetstore.unity.com/
+---------------------------------------------
+https://assetstore.unity.com/packages/3d/props/food/match-3d-object-pack-fruits-vegetables-284706
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/polygonal-foliage-asset-package-133037
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+ 
+https://learn.unity.com/project/unit-2-basic-gameplay?courseId=5cf96c41edbc2a2ca6e8810f
+---------------------------------------------
+Map Design - https://assetstore.unity.com/
+-------------------------------------------
+Prefabs - https://learn.unity.com/ 
+-------------------------------------------
+https://learn.unity.com/project/unit-2-basic-gameplay?courseId=5cf96c41edbc2a2ca6e8810f (Challenge 2)
+Dog (Player)
+Farmer (Owner)
+--------------------------------
+Scripts - https://learn.unity.com/  
+
+https://learn.unity.com/project/unit-2-basic-gameplay?courseId=5cf96c41edbc2a2ca6e8810f (Challenge 2)
+
+-------------------------------------------------
+DetectCollisions.cs , DogCollision.cs , FollowPlayer.cs , GameManager.cs , PlayerController.cs , FenceCollision.cs 
+
+
+
+ 
+
